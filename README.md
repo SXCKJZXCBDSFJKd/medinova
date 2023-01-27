@@ -9,7 +9,7 @@ Best Healthcare Solution In Your City
 
 **Github Url** -   https://github.com/SXCKJZXCBDSFJKd/medinova
 
-**Project Demo Url** - 
+**Project Demo Url** -  https://www.youtube.com/watch?v=aPGir7bzOLI
 
 ## Features and Functionalities 😃
 
